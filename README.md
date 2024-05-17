@@ -9,4 +9,4 @@
 2. АРМ логиста (https://github.com/ilovemyfriendsandpasta/Creative-work/tree/main/Automated%20workplace)
 
 ## Видеоматериалы
-- Ссылка на видео на YouTube или другой платформе.
+- Ссылка на видео на YouTube ()
