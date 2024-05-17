@@ -1,0 +1,13 @@
+release/dialog.o
+release/main.o
+release/mainwindow.o
+release/register.o
+release/secondwindow.o
+release/server.o
+release/windbshow.o
+release/moc_dialog.o
+release/moc_mainwindow.o
+release/moc_register.o
+release/moc_secondwindow.o
+release/moc_server.o
+release/moc_windbshow.o
